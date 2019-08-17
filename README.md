@@ -1,0 +1,1 @@
+Repositório lajudoces - Projeto para divulgação comercial em React Native utilizando o Router Flux para a navegação entre cenas.
